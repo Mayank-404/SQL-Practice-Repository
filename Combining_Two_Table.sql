@@ -3,6 +3,7 @@
  Script:    Combining_Two_Table.sql
  Purpose:   Report the first name, last name, city, and state of each person
             from the Person table, including address information if available.
+ Link:      https://leetcode.com/problems/combine-two-tables/description/
 =============================================================================
 
 -- Table: Person
