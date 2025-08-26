@@ -8,7 +8,7 @@ try:
     connection = psycopg2.connect(database=db, user=use, password=pas, host=host, port=port)
     cur = connection.cursor()
    
-    query = f'Select From Where;'
+    query = f'Select From Where;' # protect from sql injection
    
     cur.execute(query)
     connection.commit()
