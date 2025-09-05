@@ -6,7 +6,6 @@ Link: https://leetcode.com/problems/biggest-single-number/description/
 -- Table   
 
 MyNumbers
-
 +-------------+------+
 | Column Name | Type |
 +-------------+------+
