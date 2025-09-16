@@ -6,4 +6,5 @@ Link:    https://leetcode.com/problems/article-views-i/description/
 */
 SELECT distinct viewer_id id 
 FROM Views
-WHERE author_id=viewer_id
+WHERE author_id = viewer_id
+ 
